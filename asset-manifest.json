@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bigstore/static/css/main.6d0d6f4b.css",
+    "main.js": "/bigstore/static/js/main.08b36f6b.js",
+    "index.html": "/bigstore/index.html",
+    "main.6d0d6f4b.css.map": "/bigstore/static/css/main.6d0d6f4b.css.map",
+    "main.08b36f6b.js.map": "/bigstore/static/js/main.08b36f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0d6f4b.css",
+    "static/js/main.08b36f6b.js"
+  ]
+}
