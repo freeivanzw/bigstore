@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/bigstore/static/css/main.6d0d6f4b.css",
-    "main.js": "/bigstore/static/js/main.08b36f6b.js",
-    "index.html": "/bigstore/index.html",
-    "main.6d0d6f4b.css.map": "/bigstore/static/css/main.6d0d6f4b.css.map",
-    "main.08b36f6b.js.map": "/bigstore/static/js/main.08b36f6b.js.map"
+    "main.css": "/static/css/main.a58418c1.css",
+    "main.js": "/static/js/main.38284c46.js",
+    "static/media/sprite.svg": "/static/media/sprite.098710b57f02b325aae55b771c3d0cb8.svg",
+    "index.html": "/index.html",
+    "main.a58418c1.css.map": "/static/css/main.a58418c1.css.map",
+    "main.38284c46.js.map": "/static/js/main.38284c46.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d0d6f4b.css",
-    "static/js/main.08b36f6b.js"
+    "static/css/main.a58418c1.css",
+    "static/js/main.38284c46.js"
   ]
 }
